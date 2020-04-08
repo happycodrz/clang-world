@@ -10,3 +10,4 @@ https://github.com/lecram/txt2mid [] generate MIDI files from plain text notatio
 https://github.com/markc/midicomp [] A MIDI Compiler - convert SMF MIDI files to and from plain text
 https://github.com/nem-arch/aphex [] lightweight cli hexeditor with vimlike controls
 https://github.com/nem-arch/sniff [] dump network traffic to stdout
+https://github.com/LemonBoy/bar [] A featherweight, lemon-scented, bar based on xcb
