@@ -1,1 +1,2 @@
+https://github.com/libtrading/libtrading [] Libtrading, an ultra low-latency trading connectivity library for C and C++. http://libtrading.org
 https://github.com/traildb/traildb [] TrailDB is an efficient tool for storing and querying series of events http://traildb.io
