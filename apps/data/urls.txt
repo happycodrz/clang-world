@@ -1,3 +1,4 @@
+https://github.com/JeffBezanson/numal [] Numerical Algorithms in C
 https://github.com/lecram/bbking [] BlackBoard King
 https://github.com/lecram/congif [] convert script(1) output to GIF
 https://github.com/lecram/html2txt [] A rudimentary HTML<->plain-text converter, based on the Gumbo parser.
@@ -7,7 +8,7 @@ https://github.com/lecram/libalt [] vector rasterizer library.
 https://github.com/lecram/rad [] simplistic command-line calculator
 https://github.com/lecram/srtsync [] SubRip synchronization tool
 https://github.com/lecram/txt2mid [] generate MIDI files from plain text notation
+https://github.com/LemonBoy/bar [] A featherweight, lemon-scented, bar based on xcb
 https://github.com/markc/midicomp [] A MIDI Compiler - convert SMF MIDI files to and from plain text
 https://github.com/nem-arch/aphex [] lightweight cli hexeditor with vimlike controls
 https://github.com/nem-arch/sniff [] dump network traffic to stdout
-https://github.com/LemonBoy/bar [] A featherweight, lemon-scented, bar based on xcb
